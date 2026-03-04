@@ -31,6 +31,8 @@
    - Navigate to `C:\xampp\htdocs`  
    - Create folder `MyLocalServer`  
    - Inside, create `index.html` with the following code:
+     
+<img width="858" height="427" alt="image" src="https://github.com/user-attachments/assets/c6879989-5a78-4132-9985-2fa82990300e" />
 
 <img width="772" height="575" alt="folder" src="https://github.com/user-attachments/assets/85944dc1-6355-4ad4-b468-1851afe1eedd" />
 
@@ -41,9 +43,6 @@
     <title>My Local Server</title>
 </head>
 <body>
-
-    <h1>Server is Working Successfully!</h1
+  <h1>Server is Working Successfully!</h1
 </body>
 </html>
-<img width="993" height="459" alt="MyLocalApache" src="https://github.com/user-attachments/assets/63a05999-aad3-4863-8e18-cacdd2547bf6" />
-
