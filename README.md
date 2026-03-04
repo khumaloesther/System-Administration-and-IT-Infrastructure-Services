@@ -41,6 +41,9 @@
     <title>My Local Server</title>
 </head>
 <body>
+
+<img width="985" height="406" alt="image" src="https://github.com/user-attachments/assets/c2d6fa9a-1601-49f5-bf4e-5de79d59d7e7" />
+
     <h1>Server is Working Successfully!</h1>
 </body>
 </html>
