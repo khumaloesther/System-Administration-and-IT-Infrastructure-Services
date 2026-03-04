@@ -42,10 +42,8 @@
 </head>
 <body>
 
-<img width="985" height="406" alt="image" src="https://github.com/user-attachments/assets/c2d6fa9a-1601-49f5-bf4e-5de79d59d7e7" />
-
-    <h1>Server is Working Successfully!</h1>
+    <h1>Server is Working Successfully!</h1
 </body>
 </html>
+<img width="993" height="459" alt="MyLocalApache" src="https://github.com/user-attachments/assets/63a05999-aad3-4863-8e18-cacdd2547bf6" />
 
-<img width="985" height="406" alt="image" src="https://github.com/user-attachments/assets/37e822af-17ae-494b-b973-a1c82d78d86b" />
